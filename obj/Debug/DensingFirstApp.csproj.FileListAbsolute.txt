@@ -1,0 +1,10 @@
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\bin\Debug\DensingFirstApp.exe.config
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\bin\Debug\DensingFirstApp.exe
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\bin\Debug\DensingFirstApp.pdb
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.csproj.AssemblyReference.cache
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.Form1.resources
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.Properties.Resources.resources
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.csproj.GenerateResource.cache
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.exe
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.pdb
