@@ -8,3 +8,5 @@ C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.csproj
 C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.csproj.CoreCompileInputs.cache
 C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.exe
 C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.pdb
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.Main.resources
+C:\Users\FOR CLONE\source\repos\DensingFirstApp\obj\Debug\DensingFirstApp.Result.resources
